@@ -34,3 +34,5 @@
 ## 参考書籍
 
 > https://www.amazon.co.jp/dp/4295009946
+
+https://docs.google.com/presentation/d/1RReysAQ718G_KWm0hei5Q1bE5UL0xCTWAX4VaaqAq_U/edit#slide=id.g2b481464901_0_334
